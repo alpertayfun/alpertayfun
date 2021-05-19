@@ -1,15 +1,14 @@
 ### Hi there 👋
 
-<!--
-**alpertayfun/alpertayfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Tis is me. Alper.
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpertayfun&layout=compact&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api?username=alpertayfun&show_icons=true&theme=radical)
 
+<!--
+**alpertayfun/alpertayfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
