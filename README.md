@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Tis is me. Alper.
+This is me. Alper.
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alpertayfun&layout=compact&theme=radical)
