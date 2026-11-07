@@ -8,4 +8,4 @@ This is me. Alper.
 - 📫 How to reach me: tayfun.alper@gmail.com
 
 
-Pink Floyd - Good Bye Cruel World
+Pink Floyd - Goodbye Cruel World
